@@ -104,14 +104,19 @@
 	
 </ul>
 </div>
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+
+<div align="center">
+
+<a href="https://github.com/Nikesh-Uprety/">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikesh-Uprety&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikesh-Uprety&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="300" />
+
+</a>
 </div>
 
-![Nikesh-Uprety's Stats](https://github-readme-stats.vercel.app/api?username=Nikesh-Uprety&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![Nikesh-Uprety's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nikesh-Uprety&theme=vue-dark&hide_border=true)
-![Nikesh-Uprety's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikesh-Uprety&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
