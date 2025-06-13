@@ -22,7 +22,8 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
-- Playing CTF's at spare time
+
+- Playing CTF's at spare time  *I like exploiting WebApp hehe!*
 - Aspiring @DevSecOps Engineer.
 - Personal website [link](https://nikeshuprety.com.np)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://nikeshuprety.com.np))
