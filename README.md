@@ -2,24 +2,30 @@
 <h1 align="center"><b>Hi , I'm Nikesh Uprety </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=B96CF7&width=435&lines=I+love+to+build+things;Self-Taught+Web+Developer;Not Cold%2C+Just Selective With Warmth 🧡" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=700&color=0CD9F7&width=435&lines=You+can+call+me+0xN1kuHacks!;I+love+to+build+break+and+things.;Not+Cold-Just+Selective+With+Warmth+%F0%9F%A7%A1" alt="Typing SVG" /></a>
+ </a>
 <br>
+<a href="https://ibb.co/Kjv9xHrw"><img src="https://i.ibb.co/VW4vY8qm/full-final-banner.png" alt="full-final-banner" border="0"></a>
+<br/><br/><br/>
 
+<div align=center>
+
+[![Gmail](https://img.shields.io/badge/-gmail-446078?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:upretynikesh021@gmail.com)&nbsp;
+[![Linkedin](https://img.shields.io/badge/-linkedin-446078?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikesh-uprety-287a88244)&nbsp;
+[![Discord](https://img.shields.io/badge/-Discord-446078?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/587273795707076608)
+</div>
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+ **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
-
-- A passionate Self-taught Front-end developer
 - Playing CTF's at spare time
-- Currently learning React, Nodejs with MongoDB.
-- Personal website [link](https://nikeshuprety.com.np)**Under Maintenance**
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://#)
+- Aspiring @DevSecOps Engineer.
+- Personal website [link](https://nikeshuprety.com.np)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://nikeshuprety.com.np))
 
 <br><br>
 
